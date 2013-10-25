@@ -1,4 +1,0 @@
-huffalump
-=========
-
-getting started
